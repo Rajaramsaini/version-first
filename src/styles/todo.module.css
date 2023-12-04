@@ -1,0 +1,35 @@
+.heading{
+    margin-top: 20%;
+    color: blue;
+
+}
+.container{
+margin-top: 20%;
+
+
+margin-left: 40%;
+
+height: 700px;
+
+}
+.btn{
+
+/* height: 20px; */
+/* width: 20; */
+    background-color: #04AA6D; /* Green */
+  border: none;
+  color: white;
+  padding: 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 25px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 50%;
+
+
+}
+.active{
+    color: blue;
+}
